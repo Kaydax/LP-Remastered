@@ -1,0 +1,416 @@
+<group>
+<group>
+lokey=0 hikey=127
+lovel=124 hivel=127
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=19913
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+ampeg_release=1.500
+#include "Extensions\L&PR"
+
+<group>
+lokey=0 hikey=127
+lovel=120 hivel=123
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=15933
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+ampeg_release=1.500
+#include "Extensions\L&PR"
+
+<group>
+lokey=0 hikey=127
+lovel=116 hivel=119
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=13943
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+ampeg_release=1.500
+#include "Extensions\L&PR"
+
+<group>
+lokey=0 hikey=127
+lovel=112 hivel=115
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=11950
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+ampeg_release=1.500
+#include "Extensions\L&PR"
+
+<group>
+lokey=0 hikey=127
+lovel=108 hivel=111
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=9956
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+ampeg_release=1.500
+#include "Extensions\L&PR"
+
+<group>
+lokey=0 hikey=127
+lovel=104 hivel=107
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=7966
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+ampeg_release=1.500
+#include "Extensions\L&PR"
+
+<group>
+lokey=0 hikey=127
+lovel=100 hivel=103
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=6971
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+ampeg_release=1.500
+#include "Extensions\L&PR"
+
+<group>
+lokey=0 hikey=127
+lovel=96 hivel=99
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=5975
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+ampeg_release=1.500
+#include "Extensions\L&PR"
+
+<group>
+lokey=0 hikey=127
+lovel=92 hivel=95
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=4978
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+ampeg_release=1.500
+#include "Extensions\L&PR"
+
+<group>
+lokey=0 hikey=127
+lovel=88 hivel=91
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=3983
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+ampeg_release=1.500
+#include "Extensions\L&PR"
+
+<group>
+lokey=0 hikey=127
+lovel=84 hivel=87
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=2988
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+ampeg_release=1.500
+#include "Extensions\L&PR"
+
+<group>
+lokey=0 hikey=127
+lovel=80 hivel=83
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1992
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+ampeg_release=1.500
+#include "Extensions\L&PR"
+
+<group>
+lokey=0 hikey=127
+lovel=76 hivel=79
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1952
+ampeg_attack=0.00195313
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+ampeg_release=1.500
+#include "Extensions\L&PR"
+
+<group>
+lokey=0 hikey=127
+lovel=72 hivel=75
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1912
+ampeg_attack=0.00292977
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+ampeg_release=1.500
+#include "Extensions\L&PR"
+
+<group>
+lokey=0 hikey=127
+lovel=68 hivel=71
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1872
+ampeg_attack=0.00390626
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+ampeg_release=1.500
+#include "Extensions\L&PR"
+
+<group>
+lokey=0 hikey=127
+lovel=64 hivel=67
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1832
+ampeg_attack=0.00488194
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+ampeg_release=1.500
+#include "Extensions\L&PR"
+
+<group>
+lokey=0 hikey=127
+lovel=60 hivel=63
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1792
+ampeg_attack=0.00488194
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+ampeg_release=1.500
+#include "Extensions\L&PR"
+
+<group>
+lokey=0 hikey=127
+lovel=56 hivel=59
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1752
+ampeg_attack=0.00585954
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+ampeg_release=1.500
+#include "Extensions\L&PR"
+
+<group>
+lokey=0 hikey=127
+lovel=52 hivel=55
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1713
+ampeg_attack=0.00683664
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+ampeg_release=1.500
+#include "Extensions\L&PR"
+
+<group>
+lokey=0 hikey=127
+lovel=48 hivel=51
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1673
+ampeg_attack=0.00781252
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+ampeg_release=1.500
+#include "Extensions\L&PR"
+
+<group>
+lokey=0 hikey=127
+lovel=44 hivel=47
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1633
+ampeg_attack=0.00878954
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+ampeg_release=1.500
+#include "Extensions\L&PR"
+
+<group>
+lokey=0 hikey=127
+lovel=40 hivel=43
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1554
+ampeg_attack=0.00976387
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+ampeg_release=1.500
+#include "Extensions\L&PR"
+
+<group>
+lokey=0 hikey=127
+lovel=36 hivel=39
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1514
+ampeg_attack=0.0107402
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+ampeg_release=1.500
+#include "Extensions\L&PR"
+
+<group>
+lokey=0 hikey=127
+lovel=32 hivel=35
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1473
+ampeg_attack=0.0117191
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+ampeg_release=1.500
+#include "Extensions\L&PR"
+
+<group>
+lokey=0 hikey=127
+lovel=28 hivel=31
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1434
+ampeg_attack=0.0126988
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+ampeg_release=1.500
+#include "Extensions\L&PR"
+
+<group>
+lokey=0 hikey=127
+lovel=24 hivel=27
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1394
+ampeg_attack=0.0136733
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+ampeg_release=1.500
+#include "Extensions\L&PR"
+
+<group>
+lokey=0 hikey=127
+lovel=20 hivel=23
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1354
+ampeg_attack=0.0146462
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+ampeg_release=1.500
+#include "Extensions\L&PR"
+
+<group>
+lokey=0 hikey=127
+lovel=16 hivel=19
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1314
+ampeg_attack=0.015625
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+ampeg_release=1.500
+#include "Extensions\L&PR"
+
+<group>
+lokey=0 hikey=127
+lovel=12 hivel=15
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1274
+ampeg_attack=0.016602
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+ampeg_release=1.500
+#include "Extensions\L&PR"
+
+<group>
+lokey=0 hikey=127
+lovel=8 hivel=11
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1235
+ampeg_attack=0.0175791
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+ampeg_release=1.500
+#include "Extensions\L&PR"
+
+<group>
+lokey=0 hikey=127
+lovel=4 hivel=7
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1195
+ampeg_attack=0.0185599
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+ampeg_release=1.500
+#include "Extensions\L&PR"
+
+<group>
+lokey=0 hikey=127
+lovel=0 hivel=3
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1155
+ampeg_attack=0.0195277
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+ampeg_release=1.500
+#include "Extensions\L&PR"
