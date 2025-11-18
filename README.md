@@ -10,6 +10,6 @@ There are two presets in this release:
 You can choose what preset you would like to use depending on your taste. Axley presets are more flat sounding while Kaydax presets are made to have a harsher effect with added reverb and chorus
 
 Here are some examples of the soundfont using the Kaydax Presets (Rendered using [Xsynth](https://github.com/arduano/xsynth)):
-- [Tau](https://on.soundcloud.com/Vsvrw)
-- [The Nuker 3](https://on.soundcloud.com/Qavdo)
-- [Unify](https://on.soundcloud.com/YgDMX)
+- [Tau](https://soundcloud.com/kaydaxsc/tau-xsynth-inf-voices)
+- [The Nuker 3](https://soundcloud.com/kaydaxsc/the-nuker-3-xsynth-102k-voices)
+- [Unify](https://soundcloud.com/kaydaxsc/unify-xsynth-inf-voices)
